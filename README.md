@@ -13,3 +13,4 @@
 
 1. run `npm run savage`
 2. Navigate to `localhost:3000`
+3. Interact with the already existing messages or add your own by typing into the input and clicking the button to submit.
